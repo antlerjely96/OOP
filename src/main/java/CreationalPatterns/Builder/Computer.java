@@ -1,5 +1,6 @@
 package CreationalPatterns.Builder;
 
+//Product: Đối tượng phức tạp mà cần được xây dựng
 public class Computer {
     private String CPU;
     private String RAM;

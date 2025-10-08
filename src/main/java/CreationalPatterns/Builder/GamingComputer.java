@@ -1,5 +1,6 @@
 package CreationalPatterns.Builder;
 
+//ConcreteBuilder: Các cài đặt cụ thể chi tiết cho đối tượng, kế thừa Builder
 public class GamingComputer implements ComputerBuilder{
 
     private Computer computer = new Computer();

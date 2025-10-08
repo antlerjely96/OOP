@@ -1,5 +1,6 @@
 package CreationalPatterns.Builder;
 
+//Director: Điểu khiển quá trình xây dựng
 public class Director {
     public ComputerBuilder computerBuilder;
 
